@@ -44,7 +44,7 @@ Você também pode participar do nosso servidor no Discord ou da nossa comunidad
 ### 3. Baixe e copie os arquivos do mod
 
 - Você pode baixar o Monika After Story em PT-BR por duas maneiras:  
-  [Página oficial de releases](http://www.monikaafterstory.com/releases.html)  
+  Na [Página de releases](https://github.com/MASBrasil/MonikaAfterStory-PTBR/releases)
   ou diretamente pela versão traduzida aqui:  
   [Download em Português Brasileiro (Mediafire)](https://www.mediafire.com/file/h0021dgr82xfw50/Monika_After_Story_em_PT-BR_by_Bach_%21_%28v0.12.17%29.zip/file)
 

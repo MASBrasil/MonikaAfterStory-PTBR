@@ -1,59 +1,59 @@
-# Contributor Covenant Code of Conduct
+# Código de Conduta do Pacto de Colaboradores
 
-## Our Pledge
+## Nosso Compromisso
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+No interesse de promover um ambiente aberto e acolhedor, nós, como colaboradores e mantenedores, nos comprometemos a tornar a participação em nosso projeto e em nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, tamanho do corpo, deficiência, etnia, identidade e expressão de gênero, nível de experiência, nacionalidade, aparência pessoal, raça, religião ou identidade e orientação sexual.
 
-## Our Standards
+## Nossos Padrões
 
-Examples of behavior that contributes to creating a positive environment include:
+Exemplos de comportamentos que contribuem para criar um ambiente positivo incluem:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Usar linguagem acolhedora e inclusiva
+* Ser respeitoso com diferentes pontos de vista e experiências
+* Aceitar críticas construtivas com graça
+* Focar no que é melhor para a comunidade
+* Mostrar empatia para com outros membros da comunidade
 
-Examples of unacceptable behavior by participants include:
+Exemplos de comportamentos inaceitáveis pelos participantes incluem:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Uso de linguagem ou imagens sexualizadas e atenção ou avanços sexuais não solicitados
+* Trollagem, comentários insultuosos/derrogatórios e ataques pessoais ou políticos
+* Assédio público ou privado
+* Publicar informações privadas de outros, como endereço físico ou eletrônico, sem permissão explícita
+* Outras condutas que possam ser razoavelmente consideradas inapropriadas em um ambiente profissional
 
-## Contributing Rules
+## Regras de Contribuição
 
-- All contributions get reviewed and discussed by the Dev team.
-- Contributors and other members can leave reviews but these will only be considered suggestions and should be treated as such.
-- When a Dev team member asks you to make changes to your pull request, you should make the requested changes to your pull request.
-- If you disagree with the requested change you can comment on your pull request stating clearly why you don’t agree with the requested change. Don’t forget to adhere to our code of conduct when doing so. Please provide valid and objective reasons. Also remember that the reviewer has the final decision on this.
-- Please avoid trying to do "workarounds" when a Dev asks you to make changes. An example of this would be instead of modifying an specific line of dialogue like requested, you make two lines and just make the selection between them random.
-- The Dev team can make edits to the contributions to their discretion if the author doesn’t respond to a review after 15 days.
-- All the discussions on a pull request/issue must be on-topic, whenever a thread starts getting off-topic or the posts there don’t comply with our code of conduct the thread will be locked at our staff’s discretion.
-- Please be patient and act according to our code of conduct, none of the Devs nor the contributors earn anything from this "for love" project, so no one is willing to work with someone who is disrespectful.
-- If a contribution requires some advanced coding that the contributor can't make by themselves, the Dev team will add those to the contribution. 
-- The Dev team reserves the right to approve or reject contributions at their own discretion.
+- Todas as contribuições são revisadas e discutidas pela equipe de Desenvolvimento.
+- Colaboradores e outros membros podem deixar revisões, mas estas serão consideradas apenas como sugestões e devem ser tratadas como tal.
+- Quando um membro da equipe de Desenvolvimento solicitar alterações no seu pull request, você deve fazer as alterações solicitadas.
+- Se você discordar da alteração solicitada, pode comentar no pull request explicando claramente o motivo da discordância. Não esqueça de aderir ao nosso código de conduta ao fazê-lo. Por favor, forneça razões válidas e objetivas. Lembre-se também que o revisor tem a decisão final sobre isso.
+- Evite tentar fazer "contornamentos" quando um Desenvolvedor solicitar alterações. Um exemplo disso seria, em vez de modificar uma linha específica de diálogo como solicitado, criar duas linhas e apenas fazer a seleção entre elas aleatória.
+- A equipe de Desenvolvimento pode editar as contribuições a seu critério se o autor não responder a uma revisão após 15 dias.
+- Todas as discussões em um pull request/issue devem ser sobre o tópico. Sempre que uma discussão começar a sair do tópico ou as postagens não cumprirem nosso código de conduta, o tópico será bloqueado a critério da nossa equipe.
+- Por favor, seja paciente e aja de acordo com nosso código de conduta. Nenhum dos Desenvolvedores ou colaboradores ganha nada com este projeto "por amor", então ninguém está disposto a trabalhar com alguém que seja desrespeitoso.
+- Se uma contribuição requer algum código avançado que o colaborador não possa fazer sozinho, a equipe de Desenvolvimento adicionará esses elementos à contribuição.
+- A equipe de Desenvolvimento reserva-se o direito de aprovar ou rejeitar contribuições a seu próprio critério.
 
-## Our Responsibilities
+## Nossas Responsabilidades
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Os mantenedores do projeto são responsáveis por esclarecer os padrões de comportamento aceitável e devem tomar ações corretivas apropriadas e justas em resposta a quaisquer instâncias de comportamento inaceitável.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar comentários, commits, código, edições na wiki, issues e outras contribuições que não estejam alinhadas a este Código de Conduta, ou de banir temporariamente ou permanentemente qualquer colaborador por outros comportamentos que considerem inapropriados, ameaçadores, ofensivos ou prejudiciais.
 
-## Scope
+## Escopo
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Este Código de Conduta aplica-se tanto dentro dos espaços do projeto quanto em espaços públicos quando um indivíduo está representando o projeto ou sua comunidade. Exemplos de representação de um projeto ou comunidade incluem o uso de um endereço de e-mail oficial do projeto, postagem por meio de uma conta oficial de mídia social ou atuação como representante indicado em um evento online ou offline. A representação de um projeto pode ser definida e esclarecida adicionalmente pelos mantenedores do projeto.
 
-## Enforcement
+## Aplicação
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at monikaaftermod@gmail.com. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser relatadas entrando em contato com a equipe do projeto em monikaaftermod@gmail.com. A equipe do projeto revisará e investigará todas as reclamações e responderá de maneira que considere apropriada às circunstâncias. A equipe do projeto é obrigada a manter a confidencialidade em relação ao relator de um incidente. Detalhes adicionais sobre políticas específicas de aplicação podem ser publicados separadamente.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Mantenedores de projetos que não seguirem ou aplicarem o Código de Conduta de boa fé podem enfrentar repercussões temporárias ou permanentes, conforme determinado por outros membros da liderança do projeto.
 
-## Attribution
+## Atribuição
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage], versão 1.4, disponível em [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/

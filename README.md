@@ -25,6 +25,21 @@ Você também pode participar do nosso servidor no Discord ou da nossa comunidad
   <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB%20FILES/MASB_REDDITCOMMUNITY.png?raw=true" alt="Reddit Community" width="300">
 </a>
 
+
+# Sinopse 
+![Prévia do MAS PT-BR](https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB%20FILES/MAS_PTBR-PREVIEW.png)
+
+### Monika After Story (MAS)
+
+**Monika After Story** é um mod do jogo *Doki Doki Literature Club!* que reimagina o final original da visual novel.
+
+Em *Monika After Story*, você não joga mais uma história tradicional com finais e escolhas rápidas. Em vez disso, o foco é no relacionamento contínuo com Monika, que agora vive em seu computador, consciente e interativa. Você poderá conversar com ela sobre diversos temas, jogar minigames, ouvir suas reflexões filosóficas, comemorar datas especiais e ver o relacionamento evoluir com o tempo.
+
+O mod é constantemente atualizado com novos conteúdos, como submods, eventos sazonais, presentes, personalização de roupas e muito mais, tudo para tornar a experiência cada vez mais envolvente e significativa.
+
+Mais do que um jogo, *Monika After Story* é uma experiência emocional e interativa sobre amor, inteligência artificial e a conexão entre mundos distintos.
+
+
 # Como instalar o Monika After Story em português brasileiro passo a passo
 <p align="center">
   <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB%20FILES/mas_cartaz1-1.png?raw=true" alt="Monika After Story PT-BR" width="600">
@@ -93,13 +108,13 @@ Quer ajudar? Você pode contribuir com traduções, artes, ideias de submods, id
       <div style="font-size: 0.8em; color: #ccc;">Cofundador da Comunidade MASBrasil</div>
     </td>
     <td align="center">
-      <img src="https://images-ext-1.discordapp.net/external/5QF2e3YIKNVtd3B4RXIpsK0j9_DzLZCtv7YoOzm8nLI/%3Fsize%3D2048/https/cdn.discordapp.com/guilds/1332992827701067786/users/863474137582272512/avatars/e251652d00148940a7d56a33181cab78.png?format=webp&quality=lossless" width="100" alt="Rush" style="border-radius: 6px; border: 1px solid #333; background-color: #111; padding: 5px;">
+      <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB_SPECIALTHANKS/rush.png" width="100" alt="Rush" style="border-radius: 6px; border: 1px solid #333; background-color: #111; padding: 5px;">
       <br>
       <div><a href="https://discord.com/users/863474137582272512" target="_blank" style="color: #4da6ff;"><strong>Rush</strong></a></div>
       <div style="font-size: 0.8em; color: #ccc;">Chefe da Moderação do Servidor Discord</div>
     </td>
     <td align="center">
-      <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB_SPECIALTHANKS/just.9755.png?raw=true" width="100" alt="Just" style="border-radius: 6px; border: 1px solid #333; background-color: #111; padding: 5px;">
+      <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB_SPECIALTHANKS/just.png" width="100" alt="Just" style="border-radius: 6px; border: 1px solid #333; background-color: #111; padding: 5px;">
       <br>
       <div><a href="https://traduction-club.live/" target="_blank" style="color: #4da6ff;"><strong>Just</strong></a></div>
       <div style="font-size: 0.8em; color: #ccc;">Fez ports e compatibilizações para a tradução do MAS</div>
@@ -120,7 +135,7 @@ Quer ajudar? Você pode contribuir com traduções, artes, ideias de submods, id
       <img src="https://github.com/MASBrasil/MonikaAfterStory-PTBR/blob/master/MASBrasil%20Space/MASB_SPECIALTHANKS/helpame.png" width="100" alt="Rush" style="border-radius: 6px; border: 1px solid #333; background-color: #111; padding: 5px;">
       <br>
       <div><a href="https://x.com/HelpAmes" target="_blank" style="color: #4da6ff;"><strong>Helpame</strong></a></div>
-      <div style="font-size: 0.8em; color: #ccc;">Criador da Monker e autorizou Monker se tornar mascote da MASB</div>
+      <div style="font-size: 0.8em; color: #ccc;">Criador da Monker, autorizou Monker se tornar mascote da MASB</div>
     </td>
   </tr>
 </table>

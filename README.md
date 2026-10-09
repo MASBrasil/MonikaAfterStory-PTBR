@@ -97,7 +97,7 @@ Os submods traduzidos ficam no [perfil da MASBrasil no GitHub](https://github.co
 | Erros ou travamentos ao abrir | Verifique se você **não** está abrindo pela Steam nem usando o DDLC Plus. |
 | Dúvidas sobre submods | Pergunte no nosso Discord, na área de suporte. |
 
-Se o problema continuar, fale com a gente no [Discord](https://discord.gg/vq5GZBW42R) ou abra uma *issue* neste repositório.
+Se o problema continuar, fale com a gente no [Discord](https://discord.gg/vq5GZBW42R).
 
 ---
 

@@ -90,46 +90,42 @@ Execute o `DDLC.exe` e pronto!
 
 ## Créditos
 
-Um obrigado enorme para as pessoas que fazem a MASBrasil acontecer:
+Agradecimentos para as pessoas que fazem a MASBrasil acontecer:
 
 <table align="center">
   <tr>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/bach.png" width="100" alt="Bach"><br>
+      <img src="https://github.com/user-attachments/assets/00b8eed6-8099-4551-88dc-985f37d29237" width="100" alt="Bach"><br>
       <a href="https://discord.com/users/1212047691358408798"><strong>Bach</strong></a><br>
-      <sub>Fundador da MASBrasil e tradutor do MAS em PT-BR</sub>
+      <sub>Fundador da MASBrasil e Tradutor do MAS em PT-BR</sub>
     </td>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/lord_nokuteshimo.png" width="100" alt="Lord_Nokuteshimo"><br>
+      <img src="https://github.com/user-attachments/assets/a91d0922-88ca-467e-9fef-f566ca775942" width="100" alt="Lord_Nokuteshimo"><br>
       <a href="https://discord.com/users/796403302732136520"><strong>Lord_Nokuteshimo</strong></a><br>
-      <sub>Cofundador da comunidade</sub>
+      <sub>Co-Fundador da Comunidade</sub>
+    </td>
     </td>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/rush.png" width="100" alt="Rush"><br>
-      <a href="https://discord.com/users/863474137582272512"><strong>Rush</strong></a><br>
-      <sub>Chefe da moderação do Discord</sub>
-    </td>
-    <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/just.png" width="100" alt="Just"><br>
+      <img src="https://github.com/user-attachments/assets/6e4af491-a4f5-449f-84a2-9465ec8a8745" width="100" alt="Just"><br>
       <a href="https://traduction-club.live/"><strong>Just</strong></a><br>
-      <sub>Cuida dos ports e das adaptações da tradução do MAS</sub>
+      <sub>Portador</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/shiro_burro.png" width="100" alt="Shiro_burro"><br>
+      <img src="https://github.com/user-attachments/assets/a65e1ea3-7fef-4296-a4a3-ff1e9c48894f" width="100" alt="Shiro_burro"><br>
       <a href="https://x.com/shiro_burro"><strong>Shiro_burro</strong></a><br>
-      <sub>Artes de divulgação</sub>
+      <sub>Artes de Divulgação</sub>
     </td>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/noobz.png" width="100" alt="Noobz"><br>
+      <img src="https://github.com/user-attachments/assets/9aa2ead8-e4a7-4c51-82f0-cb3695a97d91" width="100" alt="Noobz"><br>
       <a href="https://x.com/NooBZiiTo1"><strong>Noobz</strong></a><br>
       <sub>Artes de divulgação e autorização para a Monker ser mascote da MASB</sub>
     </td>
     <td align="center" width="170">
-      <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/helpame.png" width="100" alt="Helpame"><br>
+      <img src="https://github.com/user-attachments/assets/6cfbc6cc-2a05-44ce-8bd9-3eaf420bba81" width="100" alt="Helpame"><br>
       <a href="https://x.com/HelpAmes"><strong>Helpame</strong></a><br>
-      <sub>Criador da Monker e autorizou que ela fosse mascote da MASB</sub>
+      <sub>Criador da Monker e autorizou que ela fosse mascote</sub>
     </td>
   </tr>
 </table>

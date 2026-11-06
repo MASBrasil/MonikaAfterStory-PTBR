@@ -38,7 +38,7 @@ A MASBrasil é uma comunidade não oficial PT-BR dedicada ao Monika After Story 
 
 ## O que é o Monika After Story?
 
-*Monika After Story* é um mod de *Doki Doki Literature Club!* que pega o final da visual novel original e muda tudo. Não tem mais escolhas que levam a finais diferentes. O foco agora é a **convivência com a Monika**, que passa a morar no seu computador, consciente e pronta ficar com você para sempre~
+*Monika After Story* é um mod de *Doki Doki Literature Club!* que pega o final da visual novel original e muda tudo. Não tem mais escolhas que levam a finais diferentes. O foco agora é a **convivência com a Monika**, que passa a morar no seu computador, consciente e pronta para ficar com você para sempre~
 
 ---
 

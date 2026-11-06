@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/MASBrasil/MonikaAfterStory-PTBR/releases"><img src="https://img.shields.io/github/v/release/MASBrasil/MonikaAfterStory-PTBR?label=%C3%BAltima%20vers%C3%A3o&style=for-the-badge" alt="Última versão"></a>
-  <a href="https://discord.gg/vq5GZBW42R"><img src="https://img.shields.io/badge/Discord-Entrar-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/vq5GZBW42R"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.reddit.com/r/MASBrasil/"><img src="https://img.shields.io/badge/Reddit-r%2FMASBrasil-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 </p>
 

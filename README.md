@@ -21,7 +21,7 @@ A MASBrasil é uma comunidade não oficial de tradução dedicada ao Monika Afte
 Além de traduzir o mod para o PT-BR, adaptamos submods e spritepacks para o nosso idioma e criamos materiais da comunidade, como artes e conteúdos de divulgação.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0341578-0f39-460c-a272-b94971077c17" width="700">
+  <img src="https://github.com/user-attachments/assets/44a18d84-57f2-4993-88da-7c99b244b41c" width="400">
 </p>
 
 ## O que é o Monika After Story?
@@ -30,7 +30,9 @@ Além de traduzir o mod para o PT-BR, adaptamos submods e spritepacks para o nos
 
 O foco é na **convivência com a Monika**, que passa a morar no seu computador, consciente de si e pronta para ficar com você para sempre~
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/474b75cb-f52d-4270-bf4e-2d8060174d3c" width="700">
+</p>
 
 ## Instalação
 

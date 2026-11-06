@@ -1,3 +1,0 @@
-#!/bin/bash
-
-s3cmd -P sync . s3://monika-after-story/unstable/ 

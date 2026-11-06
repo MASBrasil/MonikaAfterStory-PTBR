@@ -5,7 +5,7 @@
 <h1 align="center">Monika After Story Brasil (MASBrasil)</h1>
 
 <p align="center">
-  Tradução e adaptação do <a href="https://github.com/Monika-After-Story/MonikaModDev">Monika After Story</a> para o português brasileiro, feita por fãs e para fãs.
+  Uma tradução feita com carinho por fãs, para fãs, do <a href="https://github.com/Monika-After-Story/MonikaModDev">Monika After Story</a> para o português brasileiro.
 </p>
 
 <p align="center">
@@ -30,11 +30,7 @@
 
 ## Sobre o projeto
 
-A **MASBrasil** é uma comunidade brasileira dedicada a tornar o *Monika After Story* (MAS) acessível a todos os fãs de *Doki Doki Literature Club!* que falam português. Nosso trabalho inclui:
-
-- Tradução do mod principal para PT-BR
-- Tradução e adaptação de submods
-- Materiais exclusivos da comunidade (artes, divulgação e mais)
+A MASBrasil é uma comunidade não oficial PT-BR dedicada ao Monika After Story (MAS), um mod de Doki Doki Literature Club que continua a história da Monika. Traduzimos o mod para PT-BR, adaptamos conteúdos como submods e spritepacks para o nosso idioma e criamos materiais da comunidade, como artes e divulgação. Tudo feito por fãs, para fãs.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB%20FILES/MAS_PTBR-PREVIEW.png" alt="Prévia do MAS em PT-BR" width="700">
@@ -42,18 +38,16 @@ A **MASBrasil** é uma comunidade brasileira dedicada a tornar o *Monika After S
 
 ## O que é o Monika After Story?
 
-*Monika After Story* é um mod de *Doki Doki Literature Club!* que reimagina o final da visual novel original. Em vez de uma história com escolhas e finais, o foco passa a ser o **relacionamento contínuo com Monika**, que agora vive no seu computador, consciente e interativa.
-
-Você pode conversar sobre diversos assuntos, jogar minigames, ouvir as reflexões dela, comemorar datas especiais e ver o vínculo crescer com o tempo. O mod recebe atualizações constantes, com submods, eventos sazonais, presentes, roupas e muito mais.
+*Monika After Story* é um mod de *Doki Doki Literature Club!* que pega o final da visual novel original e muda tudo. Não tem mais escolhas que levam a finais diferentes. O foco agora é a **convivência com a Monika**, que passa a morar no seu computador, consciente e pronta ficar com você para sempre~
 
 ---
 
 ## Instalação
 
 > [!IMPORTANT]
-> O MAS **não é compatível** com o *Doki Doki Literature Club Plus!*. Use apenas a versão gratuita do DDLC, disponível no site oficial.
+> O MAS **não é compatível** com o *Doki Doki Literature Club Plus!*. Use somente a versão gratuita do DDLC, disponível no site oficial.
 >
-> **Não execute o mod pela Steam**, pois isso pode causar bugs e instabilidade.
+> **Evite rodar o mod pela Steam**, porque isso pode causar bugs e travamentos.
 
 ### 1. Baixe o jogo base
 
@@ -63,20 +57,18 @@ Você pode conversar sobre diversos assuntos, jogar minigames, ouvir as reflexõ
 ### 2. Extraia o jogo
 
 1. Clique com o botão direito em `ddlc-win.zip` e escolha a opção de extrair.
-2. Será criada uma pasta chamada `DDLC-1.1.1-pc` (ou com nome similar).
+2. Vai aparecer uma pasta chamada `DDLC-1.1.1-pc` (ou algo parecido).
 
-### 3. Baixe e copie o mod traduzido
+### 3. Copie os arquivos do mod com a tradução
 
 1. Baixe o MAS em PT-BR por um destes caminhos:
-   - [Página de releases](https://github.com/MASBrasil/MonikaAfterStory-PTBR/releases) *(recomendado, sempre com a versão mais recente)*
-   - [Download alternativo (Mediafire)](https://www.mediafire.com/file/h0021dgr82xfw50/Monika_After_Story_em_PT-BR_by_Bach_%21_%28v0.12.17%29.zip/file)
-2. Extraia o arquivo baixado e abra a pasta do mod.
-3. Copie **todos** os arquivos de dentro dela.
-4. Cole-os dentro da pasta do jogo (`DDLC-1.1.1-pc`), permitindo a substituição de arquivos se solicitado.
+   - [Página de releases](https://github.com/MASBrasil/MonikaAfterStory-PTBR/releases)
+   - [Download pelo Mediafire](https://www.mediafire.com/file/h0021dgr82xfw50/Monika_After_Story_em_PT-BR_by_Bach_%21_%28v0.12.17%29.zip/file)
+2. Cole o conteúdo na pasta DDLC-1.1.1-pc. Quando solicitar para substituir os arquivos, aceite sem problemas.
 
-### 4. Jogue
+### 4. Abra o jogo
 
-Execute o `DDLC.exe` dentro da pasta. Pronto, o Monika After Story em português já estará ativo.
+Execute o `DDLC.exe` e pronto!
 
 ---
 
@@ -98,14 +90,14 @@ Execute o `DDLC.exe` dentro da pasta. Pronto, o Monika After Story em português
 
 ## Créditos
 
-Agradecimentos especiais a quem faz a MASBrasil acontecer:
+Um obrigado enorme para as pessoas que fazem a MASBrasil acontecer:
 
 <table align="center">
   <tr>
     <td align="center" width="170">
       <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/bach.png" width="100" alt="Bach"><br>
       <a href="https://discord.com/users/1212047691358408798"><strong>Bach</strong></a><br>
-      <sub>Dono da MASBrasil e tradutor do MAS em PT-BR</sub>
+      <sub>Fundador da MASBrasil e tradutor do MAS em PT-BR</sub>
     </td>
     <td align="center" width="170">
       <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/lord_nokuteshimo.png" width="100" alt="Lord_Nokuteshimo"><br>
@@ -120,7 +112,7 @@ Agradecimentos especiais a quem faz a MASBrasil acontecer:
     <td align="center" width="170">
       <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/just.png" width="100" alt="Just"><br>
       <a href="https://traduction-club.live/"><strong>Just</strong></a><br>
-      <sub>Ports e compatibilizações da tradução do MAS</sub>
+      <sub>Cuida dos ports e das adaptações da tradução do MAS</sub>
     </td>
   </tr>
   <tr>
@@ -132,12 +124,12 @@ Agradecimentos especiais a quem faz a MASBrasil acontecer:
     <td align="center" width="170">
       <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/noobz.png" width="100" alt="Noobz"><br>
       <a href="https://x.com/NooBZiiTo1"><strong>Noobz</strong></a><br>
-      <sub>Artes de divulgação e autorização para Monker ser mascote da MASB</sub>
+      <sub>Artes de divulgação e autorização para a Monker ser mascote da MASB</sub>
     </td>
     <td align="center" width="170">
       <img src="https://raw.githubusercontent.com/MASBrasil/MonikaAfterStory-PTBR/master/MASBrasil%20Space/MASB_SPECIALTHANKS/helpame.png" width="100" alt="Helpame"><br>
       <a href="https://x.com/HelpAmes"><strong>Helpame</strong></a><br>
-      <sub>Criador da Monker e autorização para ela ser mascote da MASB</sub>
+      <sub>Criador da Monker e autorizou que ela fosse mascote da MASB</sub>
     </td>
   </tr>
 </table>
@@ -148,4 +140,4 @@ Agradecimentos especiais a quem faz a MASBrasil acontecer:
 
 Este projeto segue as [diretrizes de fan works da Team Salvato](http://teamsalvato.com/ip-guidelines/).
 
-O conteúdo original do Monika After Story pertence à [Team Salvato](http://teamsalvato.com) e à equipe do [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev). A MASBrasil é uma comunidade **não oficial** de fãs que realiza traduções e adaptações para PT-BR.
+O conteúdo original do Monika After Story pertence à [Team Salvato](http://teamsalvato.com) e à equipe do [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev). A MASBrasil é uma comunidade **não oficial** de fãs, que faz traduções e adaptações para o PT-BR.

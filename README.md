@@ -22,9 +22,6 @@
 - [Sobre o projeto](#sobre-o-projeto)
 - [O que é o Monika After Story?](#o-que-é-o-monika-after-story)
 - [Instalação](#instalação)
-- [Submods traduzidos](#submods-traduzidos)
-- [Problemas comuns](#problemas-comuns)
-- [Como contribuir](#como-contribuir)
 - [Comunidade](#comunidade)
 - [Créditos](#créditos)
 - [Licença e direitos](#licença-e-direitos)
@@ -80,38 +77,6 @@ Você pode conversar sobre diversos assuntos, jogar minigames, ouvir as reflexõ
 ### 4. Jogue
 
 Execute o `DDLC.exe` dentro da pasta. Pronto, o Monika After Story em português já estará ativo.
-
----
-
-## Submods traduzidos
-
-Os submods traduzidos ficam no [perfil da MASBrasil no GitHub](https://github.com/MASBrasil) e também no nosso [servidor do Discord](https://discord.gg/vq5GZBW42R). Cada submod acompanha as próprias instruções de instalação, então siga o passo a passo indicado em cada um.
-
----
-
-## Problemas comuns
-
-| Problema | O que fazer |
-|---|---|
-| O jogo abre em inglês | Confira se os arquivos do mod foram copiados e substituídos corretamente na pasta do jogo. |
-| Erros ou travamentos ao abrir | Verifique se você **não** está abrindo pela Steam nem usando o DDLC Plus. |
-| Dúvidas sobre submods | Pergunte no nosso Discord, na área de suporte. |
-
-Se o problema continuar, fale com a gente no [Discord](https://discord.gg/vq5GZBW42R).
-
----
-
-## Como contribuir
-
-Toda ajuda é bem-vinda! Você pode colaborar com:
-
-- Tradução de conteúdo e submods
-- Revisão de texto
-- Artes e material de divulgação
-- Ideias de submods e de traduções
-- Divulgação da comunidade
-
-Entre em contato pelo [Discord](https://discord.gg/vq5GZBW42R) para saber por onde começar.
 
 ---
 

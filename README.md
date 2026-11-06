@@ -135,4 +135,4 @@ Agradecimentos para as pessoas que fazem a MASBrasil acontecer:
 
 Este projeto segue as [diretrizes de fan works da Team Salvato](http://teamsalvato.com/ip-guidelines/).
 
-O conteúdo original do Monika After Story pertence à [Team Salvato](http://teamsalvato.com) e à equipe do [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev). A MASBrasil é uma comunidade **não oficial** de fãs, que faz traduções e adaptações para o PT-BR.
+O conteúdo original do Monika After Story pertence à [Team Salvato](http://teamsalvato.com) e à equipe do [Monika After Story](https://github.com/Monika-After-Story/MonikaModDev). A MASBrasil é uma comunidade brasileira **não oficial** do Monika After Story, feita por fãs, para fãs.

@@ -2867,7 +2867,7 @@ label monika_affection_nickname:
                         _("Então, como você gostaria de me chamar?"),
                         allow=name_characters_only,
                         length=10,
-                        screen_kwargs={"use_return_button": True, "return_button_value": "deixa"}
+                        screen_kwargs={"use_return_button": True, "return_button_value": "nevermind"}
                     ).strip(' \t\n\r')
 
                     lowername = inputname.lower()

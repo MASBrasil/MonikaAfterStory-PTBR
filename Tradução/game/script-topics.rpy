@@ -3651,7 +3651,7 @@ init python:
 label monika_books:
     m 4rksdla "Para um clube de literatura, nós líamos muito menos livros do que se poderia imaginar."
     m 4hksdlb "Acontece que nós quatro gostávamos mais de poesia. Desculpa!"
-    m 2eua "Além disso, é mais fácil criar foreshadowing assustador com poemas."
+    m 2eua "Além disso, é muito mais fácil criar indícios de coisas assustadoras com poemas."
     m 3hub "Mas ainda adoro um bom livro! Podemos conversar sobre algum que você tenha lido."
     m 1eua "Posso até ter algumas sugestões para lermos [ju]."
     m 1tsbsa "É o que um casal faria, não é?~"

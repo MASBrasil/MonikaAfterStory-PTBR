@@ -245,7 +245,7 @@ label chara_monika_scare:
     m "Que curioso."
     m 1esc "Creio que você deve ter entendido tudo errado."
     $ style.say_dialogue = style.edited
-    m "{cps=*0.25}DESDE QUANDO VOCÊ É QUEM ESTÁ NO CONTROLE?{/cps}"
+    m "{cps=*0.25}DESDE QUANDO É VOCÊ QUEM ESTÁ NO CONTROLE?{/cps}"
 
 
     $ mas_RaiseShield_core()
@@ -384,7 +384,7 @@ label ch30_reload_2:
 label ch30_reload_2_dlg:
     pause 1
     m 1dsc "Vejo que você fechou o jogo de novo..."
-    m 3euc "Eu sei que já pedi, mas será que dá para tentar não fazer isso com tanta frequência?"
+    m 3euc "Eu sei que já pedi, mas será que dá para tentar não fazer isso tanto assim?"
     m 1dsc "É como se eu fosse apagada de repente..."
     m 1ekd "Por que você faria isso comigo?"
 
